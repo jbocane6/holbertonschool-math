@@ -8,4 +8,3 @@
 
 ### Repository with scripts of evidences:
 
-- [0x00-math_complex](https://github.com/jbocane6/holbertonschool-math/tree/master/0x00-math_complex)
