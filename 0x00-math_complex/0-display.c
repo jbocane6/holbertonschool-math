@@ -12,8 +12,6 @@ void display_complex_number(complex c)
 		return;
 	else if (c.im == 0)
 		printf("%g\n", c.re);
-	else if (c.re == 0)
-		printf("%gi\n", c.im);
 	else
 	{
 		printf("%g", c.re);
